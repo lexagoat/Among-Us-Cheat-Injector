@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+C:\Users\onurs\OneDrive\Masaüstü\Among Us\Among Us Cheat\amogus\amogus\dllmain.cpp(17,12): warning C4244: 'return': 'uintptr_t' - 'DWORD' dönüşümü; veri kaybı olabilir
+C:\Users\onurs\OneDrive\Masaüstü\Among Us\Among Us Cheat\amogus\amogus\dllmain.cpp(24,71): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\onurs\OneDrive\Masaüstü\Among Us\Among Us Cheat\amogus\amogus\dllmain.cpp(24,71): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+  amogus.vcxproj -> C:\Users\onurs\OneDrive\Masaüstü\Among Us\Among Us Cheat\amogus\x64\Debug\amogus.dll
